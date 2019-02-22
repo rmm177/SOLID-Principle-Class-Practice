@@ -1,1 +1,1 @@
-# SOLID-Principle-Class-Practice
+# ThreeSolidPrinciples
